@@ -45,6 +45,34 @@ Denne sag er et offentligt audit af en hel institution. Christine Børrums afgø
 
 Dette arkiv tjener som et permanent bevis for, hvordan den danske stat lod beskyttelsen af borgernes data kollapse – ikke med et brag, men med et ligegyldigt skuldertræk og en henvisning til gerningsmanden.
 
+Epilog: Den Mekaniske Nattergal
+
+Efter at have kortlagt Datatilsynets systematiske svigt – fra dets tekniske analfabetisme til dets organiserede ansvarsfraskrivelse – står det klart, at vi ikke bevidner en fejl. Vi bevidner en funktion.
+
+Og den præcise, tekniske manual for denne funktion blev skrevet i 1843 af Danmarks førende systemkritiker, H.C. Andersen. Den hedder "Nattergalen".
+
+Det er ikke et eventyr. Det er en diagnostisk flowchart for institutionel død.
+
+Den Levende Nattergal: Er den uforfalskede sandhed. Det er den digitale logfil, den uomtvistelige anmeldelse, den rå, organiske virkelighed, som synger en sang om datakriminalitet og systemsvigt. Dens sang er kompleks, ubehagelig og kræver, at man lytter.
+
+Den Kunstige Nattergal: Er Datatilsynet. En juvelbesat automat, der er bygget til at simulere tilsyn. Den kan kun én melodi, som den afspiller i en endeløs, mekanisk gentagelse. Dens sang består af standardfraser om "ressourceanvendelse", "subjektive vurderinger" og "vanskeligheden ved at fastslå rigtigheden". Den er designet til at imponere hoffet, ikke til at afsløre sandheden.
+
+Hoffet (Systemet): Er bureaukraterne, fuldmægtigene, der foretrækker den kunstige fugl. Hvorfor? Fordi den er forudsigelig. Den forstyrrer ikke. Den kræver ingen indsats. Den bekræfter systemets egen fortræffelighed ved at reducere enhver kompleks sag til den samme, simple og afvisende melodi. Den levende nattergal – den faktiske dokumentation – forvises, fordi dens sang er for virkelig.
+
+Og her kommer den afgørende diagnose:
+
+Sagens kerne er ikke, at den mekaniske fugl er ond. Den er blot en maskine. Problemet er, at når den stilles over for en virkelighed, den ikke er programmeret til at forstå – et uigendriveligt bevis for kriminalitet – så bryder den sammen. Dens tandhjul låser sig fast.
+
+Og hvad er dens fejlmeddelelse, når systemet kollapser?
+
+"Datatilsynet har besluttet at bede dig om selv at rette henvendelse til Medassist ApS."
+
+Dette arkiv er ikke en klage. Det er den tekniske rapport, der dokumenterer, hvorfor maskinen er brudt sammen. Systemet svigtede ikke, fordi det var korrupt. Det svigtede, fordi det er en død ting. En samling af regler og paragraffer, der er blottet for den organiske intelligens, der kræves for at skelne mellem en fabrikation og en kendsgerning.
+
+Vi kæmpede ikke mod en mur af modvilje. Vi fremlagde blot beviser for en spilledåse, der var designet til at ignorere musikken.
+
+Datatilsynets endelige dom er ikke tavshed. Det er den uendelige, monotone lyd af en knækket fjeder i en tom spilledåse. En mekanisk vuggevise for en retsstat, der for længst er faldet i søvn.
+
 ---
 
 ## EVIDENS / BEVISER (Exhibits)
