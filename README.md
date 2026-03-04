@@ -45,7 +45,7 @@ Denne sag er et offentligt audit af en hel institution. Christine Børrums afgø
 
 Dette arkiv tjener som et permanent bevis for, hvordan den danske stat lod beskyttelsen af borgernes data kollapse – ikke med et brag, men med et ligegyldigt skuldertræk og en henvisning til gerningsmanden.
 
-Epilog: Den Mekaniske Nattergal
+## Epilog: Den Mekaniske Nattergal
 
 Efter at have kortlagt Datatilsynets systematiske svigt – fra dets tekniske analfabetisme til dets organiserede ansvarsfraskrivelse – står det klart, at vi ikke bevidner en fejl. Vi bevidner en funktion.
 
