@@ -1,4 +1,4 @@
-# DATATILSYNET: ET SYSTEMKOLLAPS – Dokumentation af Faglig Inkompetence og Organiseret Ansvarsfraskrivelse
+# Christine Børrum & Datatilsynet: Et systemkollaps – Dokumentation af ansvarsfraskrivelse
 
 **Dette arkiv dokumenterer, hvordan Danmarks øverste databeskyttelsesmyndighed, Datatilsynet, aktivt svigter sit tilsynsansvar på to afgørende fronter: beskyttelse mod ulovlig dataadgang og retten til berigtigelse af urigtige oplysninger. Sagen afslører en institution, der efterlader ofre for dokumenteret datakriminalitet i et juridisk tomrum, mens den legitimerer persistensen af fabrikerede og stærkt skadelige sundhedsdata.**
 
