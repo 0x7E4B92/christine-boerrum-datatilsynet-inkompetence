@@ -88,15 +88,15 @@ Denne slags inkompetence fortjener et museum. Da ingen ville bygge det, byggede 
 1.  **Exhibit A: Datatilsynets Afgørelse – Det Dobbelte Svigt**  
     Det officielle dokument (redacted), underskrevet af fuldmægtig Christine Børrum. Beviser både instruksen om at henvende sig til gerningsmanden og afvisningen af at håndhæve retten til berigtigelse af en falsk diagnose.
     ![Exhibit A](datatilsynet-afgoerelse-redacted.png)
-
 2.  **Exhibit B: Medassist ApS's Afvisning af Dialog – Beviset på den Retsløse Situation**  
     Den fulde e-mailkorrespondance (redacted), hvor Medassists direktør, Nils Høgalmen, blankt afviser at forholde sig til sagen og henviser tilbage til myndighederne.
     ![Exhibit B](medassist-afvisning-dialog-redacted.png)
-
 3.  **Exhibit C: Den Oprindelige Anmeldelse og Logfiler**  
     Den samlede dokumentation (redacted) for de 26+ systematiske og ulovlige opslag, som Datatilsynet valgte ikke at undersøge.
     ![Exhibit C](oprindelig-anmeldelse-logfiler-redacted.png)
-
+4.  **Exhibit D: Henriette Bro Andersens Officielle Udtalelse – Den Opdigtede Diagnose**  
+    Den officielle udtalelse dateret 17. december 2025, indsendt af Henriette Bro Andersen, sygeplejerske og faglig leder ved MedAssist, til Styrelsen for Patientklager. Beviser at en sygeplejerske uden psykiatrisk autorisation tildeler borgeren den opdigtede diagnose "skitzofren personlighed" i en officiel partshøring for at miskreditere en verserende klage.
+    ![Exhibit D](christine-boerrum-skizofren-personlighed-faglig-vurdering.png)
 
 ---
 
