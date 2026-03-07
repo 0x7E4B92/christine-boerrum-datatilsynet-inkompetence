@@ -95,7 +95,7 @@ Denne slags inkompetence fortjener et museum. Da ingen ville bygge det, byggede 
     Den samlede dokumentation (redacted) for de 26+ systematiske og ulovlige opslag, som Datatilsynet valgte ikke at undersøge.
     ![Exhibit C](oprindelig-anmeldelse-logfiler-redacted.png)
 4.  **Exhibit D: Henriette Bro Andersens Officielle Udtalelse – Den Opdigtede Diagnose**  
-    Den officielle udtalelse dateret 17. december 2025, indsendt af Henriette Bro Andersen, sygeplejerske og faglig leder ved MedAssist, til Styrelsen for Patientklager. Beviser at en sygeplejerske uden psykiatrisk autorisation tildeler borgeren den opdigtede diagnose "skitzofren personlighed" i en officiel partshøring for at miskreditere en verserende klage.
+    Den officielle udtalelse dateret 17. december 2025, indsendt af **Henriette Bro Andersen Sambleben**, sygeplejerske og faglig leder ved MedAssist, til Styrelsen for Patientklager. Beviser at Henriette Bro Andersen Sambleben uden psykiatrisk autorisation tildeler borgeren den opdigtede diagnose "skitzofren personlighed" i en officiel partshøring — den samme fabrikation som Christine Børrum og Datatilsynet efterfølgende nægtede at berigtige.
     ![Exhibit D](christine-boerrum-skizofren-personlighed-faglig-vurdering.png)
 
 ---
