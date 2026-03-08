@@ -13,6 +13,8 @@ Efter en detaljeret anmeldelse af både systematisk, ulovlig adgang til national
 **Svigt 1: Ulovlig Adgang:** Tilsynet beder offeret om selv at spørge gerningsmanden, om hans kriminalitet var lovlig.
 > "Datatilsynet har besluttet at bede dig om selv at rette henvendelse til Medassist ApS (...). På den måde får Medassist ApS (...) mulighed for at (...) tage stilling til, om opslagene er sket er i overensstemmelse med databeskyttelsesreglerne."
 
+Datatilsynet har med denne afgørelse skabt en ny dansk standard: Hvis du uberettiget tilgår Mette Frederiksens Fælles Medicinkort, behøver du ikke bekymre dig. Staten vil bede hende om selv at spørge dig, om du synes, det var lovligt.
+
 **Svigt 2: Urigtige Data (Berigtigelse):** Tilsynet nægter at gribe ind over for en beviseligt falsk diagnose.
 > "Datatilsynet kan oplyse, at det generelt er svært at fastslå rigtigheden af oplysninger, der har karakter af subjektive eller faglige vurderinger. (...) Datatilsynet har ved sin beslutning derfor lagt særlig vægt på, at der ikke er udsigt til, at tilsynet ved en nærmere undersøgelse vil komme frem til et andet resultat..."
 
@@ -46,33 +48,23 @@ Denne sag er et offentligt audit af en hel institution. Christine Børrums afgø
 Dette arkiv tjener som et permanent bevis for, hvordan den danske stat lod beskyttelsen af borgernes data kollapse – ikke med et brag, men med et ligegyldigt skuldertræk og en henvisning til gerningsmanden.
 
 ## Epilog: Obduktion af en Papirtiger – En Diagnostisk Rapport
-
 Efter at have dissekeret sagsbehandlingen hos fuldmægtig Christine Børrum står det klart, at vi ikke bevidner en fejl. Vi bevidner et mønster. Denne epilog er ikke en klage. Det er en obduktionsrapport.
 
 For at fastslå dødsårsagen anvender vi den omvendte Turing-test: En test for at afgøre, om en person i en magtfuld position kan udvise rationel, analytisk adfærd, der er adskillelig fra en simpel, forudprogrammeret algoritme.
 
 Test 1: Et uigendriveligt, binært bevis
-
 Input: Et tidsstempel fra en statslig server (07.08.2025), der dokumenterer et ulovligt dataopslag uden behandlingsrelation.
-
 Forventet output: "Dette er et brud på Sundhedslovens § 157."
-
 Faktisk output: "Spørg gerningsmanden, om hans kriminalitet var lovlig."
 
 Test 2: En faktuel usandhed
-
 Input: En opdigtet diagnose ("skizofren personlighed"), der beviseligt ikke eksisterer i ICD-11.
-
 Forventet output: "Denne diagnose eksisterer ikke og skal berigtiges jf. GDPR artikel 16."
-
 Faktisk output: "Dette er en subjektiv vurdering, vi ikke kan fastslå rigtigheden af."
 
 Test 3: En simpel teknisk skelnen
-
 Input: Forskellen mellem en lokal journal og et nationalt sikkerhedsregister (FMK).
-
 Forventet output: "Disse er to forskellige systemer med forskellige retsregler."
-
 Faktisk output: Konsekvent at kalde et dokumenteret data-hack i et nationalt register for et "journalopslag."
 
 Obduktionens konklusion: Tre inputs. Tre systemnedbrud. Nul juridisk analyse.
@@ -80,6 +72,10 @@ Obduktionens konklusion: Tre inputs. Tre systemnedbrud. Nul juridisk analyse.
 At modtage en afgørelse fra Christine Børrum er forbundet med den samme dybe, forudsigelige træthed, man føler over for en defekt kaffemaskine — en maskine, der insisterer på, at den har brygget kaffe, mens den blot har gylpet lunkent affaldsvand ud over gulvet.
 
 Systemet svigtede ikke, fordi det var korrupt. Det svigtede, fordi den person, der skulle være dets hjerne, var en tom algoritme i en dyr kjole.
+
+Embedssædme (sb., u.køn) — den institutionelle tilstand hvor embedsmænd systematisk simulerer inkompetence og læring som skjold for bevidste, statusbeskyttende beslutninger. Ikke korruption, fordi ingen penge skifter hænder. Værre end korruption, fordi ingen kan retsforfølges. Forekommer endemisk i nordiske velfærdsstater, hvor den institutionelle tillidsmytologi fungerer som immunsystem mod ekstern kritik.
+
+Der manglede et ord for det. Nu er der et.
 
 ---
 
