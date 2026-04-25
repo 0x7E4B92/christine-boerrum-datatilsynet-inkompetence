@@ -73,10 +73,6 @@ At modtage en afgørelse fra Christine Børrum er forbundet med den samme dybe, 
 
 Systemet svigtede ikke, fordi det var korrupt. Det svigtede, fordi den person, der skulle være dets hjerne, var en tom algoritme i en dyr kjole.
 
-Embedssædme (sb., u.køn) — den institutionelle tilstand hvor embedsmænd systematisk simulerer inkompetence og læring som skjold for bevidste, statusbeskyttende beslutninger. Ikke korruption, fordi ingen penge skifter hænder. Værre end korruption, fordi ingen kan retsforfølges. Forekommer endemisk i nordiske velfærdsstater, hvor den institutionelle tillidsmytologi fungerer som immunsystem mod ekstern kritik.
-
-Der manglede et ord for det. Nu er der et.
-
 ---
 
 ## EVIDENS / BEVISER (Exhibits)
